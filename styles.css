@@ -1,0 +1,12 @@
+h1 {
+    color: aquamarine;
+}
+p {
+    font-size: 100px;
+    color: blue;
+}
+
+body {
+    background: linear-gradient(red, purple);
+    height: 100vh;
+}
